@@ -1,16 +1,23 @@
-## Hi there 👋
+## Lee Jae Hyuk 🤚
 
-<!--
-**NewP1/NewP1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience
+2023.06 ~ 2023.08 | 글로벌브릿지, Intern, Modeling
 
-Here are some ideas to get you started:
+### Education
+2018.03 ~ 2024.02 | Incheon University, Bachelor of Computer Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Qualifications
+2024.06.21 | SQL Developer
+
+2023.12.30 | TOEIC Speaking, Intermediate High(IH, 140)
+
+2020.04.10 | Pilot Of An Ultra Light Vehicle, Unmanned Multicopter
+
+### Skill 
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>
+
+
+
